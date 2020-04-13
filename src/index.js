@@ -12,14 +12,14 @@ const App = () =>{
     <div className="App">
         <Nav/>
 
-         <div style={{display:"flex"}}>
+        {/*  <div style={{display:"flex"}}>
           <ProductItem  pics={Faker.image.imageUrl()}>
                 <BuyButton price={"2000 sek"}/>
             </ProductItem>
           <ProductItem price="2000 sek"  pics={Faker.image.imageUrl()}>
                     <BuyButton price={"1500 sek"}/>
               </ProductItem>
-          </div>
+          </div> */}
     </div>
   );
 }
