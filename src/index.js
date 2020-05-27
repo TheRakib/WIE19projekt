@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from "react-dom";
-import Faker from "faker";
+
 import ProductItem from "./components/ProductItem";
 import BuyButton from "./components/BuyButton"
 
